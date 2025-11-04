@@ -1,0 +1,10 @@
+/home/weizex/Server/Service/CMakeFiles/edit_cache.dir
+/home/weizex/Server/Service/CMakeFiles/rebuild_cache.dir
+/home/weizex/Server/Service/src/CMakeFiles/edit_cache.dir
+/home/weizex/Server/Service/src/CMakeFiles/rebuild_cache.dir
+/home/weizex/Server/Service/src/server/CMakeFiles/ChatServer.dir
+/home/weizex/Server/Service/src/server/CMakeFiles/edit_cache.dir
+/home/weizex/Server/Service/src/server/CMakeFiles/rebuild_cache.dir
+/home/weizex/Server/Service/src/client/CMakeFiles/ChatClient.dir
+/home/weizex/Server/Service/src/client/CMakeFiles/edit_cache.dir
+/home/weizex/Server/Service/src/client/CMakeFiles/rebuild_cache.dir
